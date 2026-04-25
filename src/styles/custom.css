@@ -1,0 +1,54 @@
+/* Hide left sidebar on desktop only — single-page site, no nav needed.
+   On mobile, sidebar is a slim drawer with theme + GitHub. */
+@media (min-width: 50rem) {
+  .sidebar-pane {
+    display: none;
+  }
+
+  .main-frame {
+    --sl-sidebar-width: 0;
+    padding-inline-start: 2rem;
+  }
+}
+
+/* Narrow the right "On this page" column on large screens for ~75/25 split */
+@media (min-width: 72rem) {
+  .right-sidebar {
+    width: 14rem;
+  }
+}
+
+/* Mobile menu: drop down from top, small height, options in a single row */
+@media (max-width: 50rem) {
+  body[data-mobile-menu-expanded] .sidebar-pane {
+    inset-block-end: auto;
+    width: 100%;
+    height: auto;
+    padding: 0.75rem 1rem;
+    border-block-end: 1px solid var(--sl-color-hairline);
+    background-color: var(--sl-color-black);
+  }
+
+  .sidebar-content {
+    flex-direction: row;
+    align-items: center;
+    height: auto;
+    padding: 0;
+    gap: 1rem;
+  }
+
+  /* Empty sidebar items wrapper — collapse it so it doesn't add space */
+  sl-sidebar-state-persist {
+    display: none;
+  }
+
+  /* Theme + GitHub on a single row */
+  .mobile-preferences {
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1rem;
+    padding: 0;
+    border: 0;
+  }
+}

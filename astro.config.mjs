@@ -8,6 +8,10 @@ export default defineConfig({
     starlight({
       title: 'OSINT Kit',
       description: 'A comprehensive toolkit for Open Source Intelligence (OSINT) tasks',
+      customCss: ['./src/styles/custom.css'],
+      components: {
+        ThemeSelect: './src/components/ThemeSelect.astro',
+      },
       social: [
         {
           icon: 'github',
