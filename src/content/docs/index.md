@@ -75,6 +75,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 - **TweetDeck / X (Twitter) Advanced Search** — Filter by keyword, user, time, and geolocation.
 - **Twint** — Scrape Twitter data without API access.
 - [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — X data extraction, monitoring, and automation API.
+- [twtData](https://twtdata.com/) — X follower exports, free trends archive and account check.
 - **Sowdust's Facebook OSINT Tools** — Access public Facebook data (pages, groups, etc.).
 - **Instagram Graph Explorer** — Analyze public Instagram data via API.
 - **Social Bearing** — Twitter analytics and user insights.
