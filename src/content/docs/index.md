@@ -7,6 +7,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 
 ## OSINT Aggregator Tools
 
+- [Consensus OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) — Username, email and phone lookups with enriched results.
 - [DeepFindMe](https://www.deepfind.me/) — **(Freemium)**
 - [FindMore.Me](https://findmore.me/) - **(Free)**
 - [Analyst Research Tools](https://analystresearchtools.com/) — **(Freemium)**
