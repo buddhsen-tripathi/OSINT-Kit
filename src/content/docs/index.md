@@ -78,6 +78,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 - [twtData](https://twtdata.com/) — X follower exports, free trends archive and account check.
 - **Sowdust's Facebook OSINT Tools** — Access public Facebook data (pages, groups, etc.).
 - **Instagram Graph Explorer** — Analyze public Instagram data via API.
+- [IGDataHub](https://igdatahub.com/) — Instagram follower history, engagement rate and weekly growth rankings.
 - **Social Bearing** — Twitter analytics and user insights.
 - **Social-Searcher** — Search across multiple social platforms.
 
