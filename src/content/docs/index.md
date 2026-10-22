@@ -164,6 +164,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 ## Recording & Auditing
 
 - [AnyDesk](https://anydesk.com/en) — Remote access software for personal computers and mobile devices.
+- [CurlShot](https://curlshot.com/) — Screenshot API for full-page website captures, PDF or video.
 - [Forensic OSINT](https://www.forensicosint.com/) — OSINT web capture software to capture evidence quickly.
 - [Hunchly](https://hunch.ly/) — Auditing and recording software.
 - [Joplin](https://joplinapp.org/) — Note-taking app.
