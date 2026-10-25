@@ -26,6 +26,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 - [Sherlock](https://github.com/sherlock-project/sherlock) — **(Free)**
 - [Intelligence X](https://intelx.io/) — **(Freemium)**
 - [OCCRP Aleph](https://aleph.occrp.org/) — **(Free)**
+- [Opsis](https://useopsis.com/) - **(Freemium)**
 
 ## Metadata & File Analysis
 
