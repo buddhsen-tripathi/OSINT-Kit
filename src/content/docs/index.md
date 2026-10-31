@@ -36,6 +36,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 
 ## Image / Video / Media Analysis
 
+- [Reverse Image Search Anywhere](https://reverseimage.app/) — Compare four image engines; search images without public URLs.
 - [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) — **(Free)** — Browser plugin to verify and analyze videos, widely used by journalists.
 - [TinEye](https://tineye.com/) — **(Freemium)** — Reverse image search engine for identifying image origins and duplicates.
 - [Yandex Images](https://yandex.com/images/) — **(Free)** — Reverse image search tool with strong facial and contextual matching capabilities.
