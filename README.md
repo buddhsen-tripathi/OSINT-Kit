@@ -10,10 +10,10 @@ A curated collection of tools for **Open Source Intelligence (OSINT)** — for r
 ![OpenIssues](https://img.shields.io/github/issues/buddhsen-tripathi/OSINT-Kit)
 ![PullRequest](https://img.shields.io/github/issues-pr/buddhsen-tripathi/OSINT-Kit)
 
-OSINT Kit is supported by [ScrapingAnt](https://scrapingant.com/?ref=njiwytf).
+OSINT Kit is supported by [Clonvo](https://clonvo.com).
 
-<a href="https://scrapingant.com/datacenter-proxies?tap_a=167180-c1113f&ref=njiwytf" target="_blank" rel="nofollow">
-  <img src="https://static.tapfiliate.com/69ff8a3d97b37719749164.png" border="0" alt="ScrapingAnt">
+<a href="https://clonvo.com" target="_blank" rel="nofollow">
+  <img width="1796" height="876" alt="image" src="https://github.com/user-attachments/assets/b4e0959f-1ae8-4e15-a3c2-067ccc91f312" />
 </a>
 
 ## What's inside
