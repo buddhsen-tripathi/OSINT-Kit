@@ -155,6 +155,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 - **Clearbit API** — Enrich domains and emails with company data.
 - **SecurityTrails API** — DNS and IP intelligence.
 - **AbuseIPDB API** — Check IP addresses for malicious activity.
+- [looot](https://looot.ai/) — Pay-per-call email, phone and company data API.
 
 ## Browser Extensions for OSINT
 
