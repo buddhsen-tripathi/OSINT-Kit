@@ -162,6 +162,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 - **Hunter Chrome Extension** — Discover and verify email addresses associated with visited websites.
 - **RevEye** — Perform reverse image searches across multiple search engines in one click.
 - **SingleFile** — Save full web pages as a single HTML file for offline viewing and evidence preservation.
+- [Spoof Me](https://spoof-me.com/) — Consistent browser identity (UA, language, timezone) for sock puppets.
 - **Wayback Machine Add-on** — Quickly check archived versions of any webpage.
 - **Wappalyzer** — Detect and analyze technologies used on websites (CMS, frameworks, analytics tools, etc.).
 
