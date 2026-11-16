@@ -82,7 +82,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 - **Instagram Graph Explorer** — Analyze public Instagram data via API.
 - [IGDataHub](https://igdatahub.com/) — Instagram follower history, engagement rate and weekly growth rankings.
 - [SnapDataHub](https://snapdatahub.com/) — Public Snapchat creator reports: subscriber history, Spotlight views and engagement.
-- [TKMetrics](https://tkmetrics.com/) — Public TikTok creator reports: average plays, engagement rate and posting times.
+- [TKMetrics](https://tkmetrics.com/) — Public TikTok reports: average plays, engagement and posting times.
 - **Social Bearing** — Twitter analytics and user insights.
 - **Social-Searcher** — Search across multiple social platforms.
 
