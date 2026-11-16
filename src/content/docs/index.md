@@ -44,6 +44,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 - [Forensically](https://29a.ch/photo-forensics/) — **(Free)** — Web-based tool to detect image manipulations and view metadata.
 - [FotoForensics](https://fotoforensics.com/) — Web tool for image forensic analysis and error level analysis.
 - [SauceNAO](https://saucenao.com/) — Reverse image search for artwork and media.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) — Timestamped transcripts of YouTube videos to search and quote.
 
 ## Data Breach & Leak Search
 
