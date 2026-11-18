@@ -70,6 +70,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 - [Censys](https://search.censys.io/) — Search engine for internet-connected hosts and domains.
 - [Netcraft](https://www.netcraft.com/) — Domain and phishing intelligence platform.
 - [VirusTotal](https://www.virustotal.com/gui/home/search) — Domain intel with passive DNS and WHOIS.
+- [ScanMalware](https://scanmalware.com/) — URL scanner with searchable scan archive and AI scam classification.
 
 ## Social Media Intelligence (SOCMINT)
 
