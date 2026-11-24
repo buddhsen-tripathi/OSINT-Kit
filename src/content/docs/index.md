@@ -51,6 +51,8 @@ A curated collection of tools for researchers, security professionals, and hobby
 - [Have I Been Pwned?](https://haveibeenpwned.com/) — Check if your email or password has been leaked in known data breaches. *(Free)*
 - [Dehashed](https://www.dehashed.com/) — Search compromised credentials and leaked databases. *(Paid)*
 - [LeakCheck](https://leakcheck.io/) — Search across dark web data dumps and breach records. *(Freemium)*
+- [Breach House](https://breach.house/) — Search ransomware and breach listings, with source and discovery date. *(Freemium)*
+- [Have I Been Ransomed?](https://haveibeenransom.com/) — Check emails, phones, domains against ransomware, stealer and breach leaks. *(Freemium)*
 
 ## Location Tracking
 
