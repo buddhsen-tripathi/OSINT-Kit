@@ -185,6 +185,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 
 - [Data.gov](https://www.data.gov/) — Comprehensive collection of US government open datasets, covering topics like demographics, economics, health, and more.
 - [EU Open Data Portal](https://data.europa.eu/) — Access European Union open datasets, including statistics, legislation, and environmental data.
+- [H1DR4 Incident Map](https://h1dr4.dev/map) — Browse published Police.uk incident records on an interactive map.
 - [WikiData](https://www.wikidata.org/) / [DBpedia](https://wiki.dbpedia.org/) — Structured knowledge bases that provide machine-readable data extracted from Wikipedia and other sources.
 - [Kaggle Datasets](https://www.kaggle.com/datasets) — Public datasets for data science, cybersecurity, and OSINT research, often including large-scale real-world data.
 
