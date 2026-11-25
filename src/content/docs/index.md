@@ -120,6 +120,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 - [K2SOsint](https://github.com/K2SOsint/Bookmarklets) — A small collection of OSINT bookmarklets.
 - [Moon OSINT](https://start.me/p/0PYlQd/decoding-smartphone-identifiers) — Tool for decoding smartphone identifiers.
 - [My OSINT Tools](https://tools.myosint.training/) — A selection of OSINT bookmarklets.
+- [MyIPScan VPN Leak Test](https://myipscan.net/tools/vpn-leak-test) — Check a VPN for IP, DNS, WebRTC and IPv6 leaks.
 - [Octopii](https://github.com/redhuntlabs/Octopii) — Personally identifiable information (PII) scanner.
 - [Online PNG Tools](https://onlinepngtools.com/#tools) — Online tools for editing PNG images.
 - [OSINT Leaks](https://osintleak.com/) — Multi-purpose OSINT search tool.
